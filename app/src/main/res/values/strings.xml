@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Press Start</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">MyMessage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lorem_ipsum">Lorem Ipsum1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_title">Stack Overflow</string>
+    <string name="updated">Updated</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="joystiq_url">http://stackoverflow.com/feeds/tag?tagnames=android&amp;sort=newest</string>
+    <string name="loading">Loading...Please Wait</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title"></string>
+    <string name="date"></string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+</resources>
